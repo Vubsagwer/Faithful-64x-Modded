@@ -1,6 +1,6 @@
 # Classic Faithful 64x with full modded support
 
-Just as the title says, this project is a collection of 64x modded Minecraft textures, made by myself, based on the Classic Faithful 64x resource pack. 
+Just as the title suggests, this project is a collection of 64x modded Minecraft textures, made by myself, based on the Classic Faithful 64x resource pack. 
 
 It is recommended to use this pack along with the Faithful 32x Modded resource pack for the best experience. When installing, make sure Faithful 64x Modded is listed above Faithful 32x modded in your enabled resource pack list.
 
